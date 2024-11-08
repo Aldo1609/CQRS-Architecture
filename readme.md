@@ -14,7 +14,7 @@ http://localhost:8080/doc/swagger-ui/index.html
 
 
 ```http
-POST 'http://localhost:9191/products'
+POST 'http://localhost:8080/products'
 {
     "type": "CreateProduct",
     "product": {
