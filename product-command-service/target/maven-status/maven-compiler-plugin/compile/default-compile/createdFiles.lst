@@ -1,0 +1,7 @@
+com\aldob\dto\ProductEvent.class
+com\aldob\ProductCommandServiceApplication.class
+com\aldob\service\impl\ProductCommandServiceImpl.class
+com\aldob\service\ProductCommandService.class
+com\aldob\controller\ProductCommandController.class
+com\aldob\entity\Product.class
+com\aldob\repository\ProductRepository.class

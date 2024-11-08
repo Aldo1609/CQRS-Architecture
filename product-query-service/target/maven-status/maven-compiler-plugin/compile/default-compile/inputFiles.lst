@@ -1,0 +1,8 @@
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\controller\ProductQueryController.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\repository\ProductRepository.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\dto\ProductEvent.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\ProductQueryServiceApplication.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\service\ProductQueryService.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\config\RedisConfig.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\service\impl\ProductQueryServiceImpl.java
+C:\Users\Aldo\Desktop\cqrs-design-pattern\product-query-service\src\main\java\com\aldob\entity\Product.java
