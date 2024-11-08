@@ -35,3 +35,6 @@ PUT 'http://localhost:8080/products/1'
         "price": 50
 }
 ```
+
+![image](https://github.com/user-attachments/assets/89426939-94b4-4dcb-bfbf-bea10018a5d4)
+
