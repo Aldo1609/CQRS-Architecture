@@ -15,6 +15,8 @@ http://localhost:8080/doc/swagger-ui/index.html
 
 ```http
 POST 'http://localhost:8080/products'
+Service: Product-Command-Service
+
 {
     "type": "CreateProduct",
     "product": {
@@ -26,8 +28,23 @@ POST 'http://localhost:8080/products'
 
 ```http
 PUT 'http://localhost:8080/products/1'
+Service: Product-Command-Service
+
 {
     "type": "UpdateProduct",
+    "product": {
+        "id": 1,
+        "name": "Book",
+        "description": "Made by Aldo Becerra",
+        "price": 50
+}
+```
+
+```http
+GET 'http://localhost:8081/products'
+Service: Product-Query-Service
+
+{
     "product": {
         "id": 1,
         "name": "Book",
