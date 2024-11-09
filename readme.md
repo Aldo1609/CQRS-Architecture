@@ -5,7 +5,7 @@ CQRS Design Pattern with SpringBoot & Apache Kafka.
 
 Technologys used: Java, SpringBoot, Kafka, PostgreSQL, Redis.
 
-Explanation Video: Soon!
+Explanation Video: [Click here!](https://www.youtube.com/watch?v=TJYcRRTPAFs&t=1s)
 
 
 ## Documentation
