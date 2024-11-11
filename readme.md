@@ -55,3 +55,22 @@ Service: Product-Query-Service
 
 ![image](https://github.com/user-attachments/assets/89426939-94b4-4dcb-bfbf-bea10018a5d4)
 
+
+
+## 🚀 About Me
+I'm a Software Engineer with 2.5 years of experience in Backend development. 
+
+I specialize in Java and have strong proficiency in the Spring Ecosystem
+
+
+## 🔗 Links
+
+¿Do you want to contact me?
+Send me an email!
+
+aldobecerra1609@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-isaias-becerra-campos-591621200/)
+
+
+
